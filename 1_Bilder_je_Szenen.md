@@ -1,5 +1,4 @@
 # Bilder_je_Szenen
-* Parent: https://codimd.kayuk.de/QT3VYk3dThq0IlV2h0soqg?both#
 
 ## Vorgehen
 * Fotos raussuchen, links einfügen

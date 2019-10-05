@@ -23,7 +23,7 @@
 | 1a | Intro,  acting  | 2    | "castle outside, oldschoo"l| https://pixabay.com/photos/singapore-river-skyline-building-243669/ https://pixabay.com/photos/city-london-england-architecture-809463/          |
 | 1b | Intro, dance    | 3    | "castle inside, modern, technical"| https://pixabay.com/illustrations/graph-growth-finance-profits-163509/  https://pixabay.com/illustrations/money-banking-finance-business-1995440/       |
 | 2  | acrobatic       | 2    | "Fernglas, Sterne, Aretusa"|   https://pixabay.com/photos/milky-way-starry-sky-night-sky-star-2695569/ https://pixabay.com/photos/starry-sky-star-galaxies-1655503/|
-| 3a| influencer| 2 | |
+| 3a| influencer| 2 | maybe projection? counting up likes or retweets |
 | 3b | strapes         | 2    | | https://pixabay.com/photos/tree-fog-moor-swamp-venn-branch-1031814/          |
 | 3c | Influencas      | non  |                   |           |
 | 4a | Acting          | 3    | "classical"       |           |

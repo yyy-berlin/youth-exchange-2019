@@ -1,9 +1,10 @@
 # Bilder_je_Szenen
+* Parent: https://codimd.kayuk.de/QT3VYk3dThq0IlV2h0soqg?both#
 
 ## Vorgehen
 * Fotos raussuchen, links einfügen
-* Lizenz prüfen: Nur CC 0, CC BY
-* Download (ID: siehe pad)
+* Lizenz prüfen: Nur CC 0, CC BY 
+* Download
 * In Szenenauswahlübernehmen
 
 ### wo suchen?
@@ -12,7 +13,7 @@
 
 
 ## Szenenübersicht
-**Anmerkungen:**
+**Anmerkungen:** 
 * Prioritäten: wurden von Dajana vorgegeben -> Fokus auf 1 und 2
 * Prio 1 - hoch, Prio 3 - niedrig
 * Beschreibung: Eingefügt aus Dajanas Fassung 3 entsprechend Spalte Media, Formulierungen Dajana in Anführungszeichen
@@ -110,6 +111,10 @@ https://pixabay.com/photos/old-ancient-prison-construction-883672/
 https://pixabay.com/photos/jail-prison-ruin-doors-old-451447/
 https://pixabay.com/photos/prison-jail-rustic-pennsylvania-2403953/
 https://pixabay.com/photos/alcatraz-alcatraz-prison-1010029/
+
+## General Akbar Ideas
+* more cutouts in stage then projection on wall
+* office/throne: cutouts on sticks
 
 
 **Offene Abstimmungen**

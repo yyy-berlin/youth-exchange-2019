@@ -12,7 +12,7 @@ Content:
 
 ## Overview scenes
 
-| Nr | Scene           | Prio | Beschreibung      | Vorschlag |
+| Nr | Scene           | Prio | Description       | Proposal  |
 |----|-----------------|------|-------------------|-----------|
 | I  | Media screen    | 2    | Chapter 1         |           |
 | 1a | Intro,  acting  | 2    | "castle outside, oldschoo"l| https://pixabay.com/photos/singapore-river-skyline-building-243669/ https://pixabay.com/photos/city-london-england-architecture-809463/          |

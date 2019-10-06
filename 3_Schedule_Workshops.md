@@ -7,7 +7,7 @@
 | Day           | Activities          | Results          |
 |---------------|---------------------|------------------|
 | Saturday, 5th | presentation: general ideas, overview scenes; tasks and software | responsibilities person per scene, plan for coming days |
-| Sunday, 6th   |                     |                  |
+| Sunday, 6th   | who picked which scene? tasks prio 1 scenes  |first media input for prio 1 scenes |
 | Monday, 7th   |                     |                  |
 | Tuesday, 8th  |                     |                  |
 | Wednesday, 9th|                     |                  |

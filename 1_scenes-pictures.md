@@ -97,6 +97,7 @@ https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pix
 #### implementation
 * shoot the video according to d. script
 * edit video in video software (clearification needed according to description)
+* **todo participants** get video examples
 
 ### Scene 16 - Hulahoop
 * **we set this scene to prio 1 because if hulahoop/smiley idea, does this work?**

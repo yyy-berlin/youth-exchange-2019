@@ -23,7 +23,7 @@ Content:
 | 3c | Influencas      | non  |                   |           |
 | 4a | Acting          | 3    | "classical"       |           |
 | 4b | Music           | 3    |                 |   https://pixabay.com/photos/cloudy-cloud-night-moody-gloomy-3900649/ https://pixabay.com/photos/alley-road-winding-lane-houses-250033/ https://pixabay.com/photos/flute-musical-instrument-1427650/          |
-| 5  | Media           | 1    | "Incoming messenges"|   https://pixabay.com/illustrations/whatsapp-icon-communication-social-2317203/ https://pixabay.com/illustrations/mobile-phone-arrow-send-received-on-2223993/ https://pixabay.com/vectors/letters-email-newsletter-write-1132703/        |
+| 5  | Media           | 1    | "Incoming messenges"|   https://pixabay.com/illustrations/whatsapp-icon-communication-social-2317203/ https://pixabay.com https://pixabay.com/vectors/icon-green-button-clip-art-forward-156758//illustrations/mobile-phone-arrow-send-received-on-2223993/ https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pixabay.com/vectors/audio-play-sound-start-video-158489/ https://pixabay.com/vectors/speaker-loudness-volume-green-296661/ https://pixabay.com/vectors/like-facebook-social-media-icon-3000958/|
 | 6  | Actors          | 3    | |   https://pixabay.com/photos/glass-wall-people-woman-girl-hair-2557577/ https://pixabay.com/photos/woman-girl-young-person-female-4509821/ https://pixabay.com/photos/frog-meadow-headphones-music-1109819/ https://pixabay.com/photos/girl-young-woman-awakening-3231843/ |
 | 7  | Diabolo         | 3    |                   |           |
 | II | Media screen    | 2    | Chapter 2         |           |
@@ -72,15 +72,21 @@ Content:
 * compile video from single pictures
 * add a sound with each count
 * addon: sounds within audience, per messages to phones on friends or parents
+* **to do participants**: take cellphone screenshots:
+    * an empty inbox screen
+    * a voicemail is being posted
+    * the post gets a like
+* https://pixabay.com/vectors/icon-green-button-clip-art-forward-156758//illustrations/mobile-phone-arrow-send-received-on-2223993/ 
+https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pixabay.com/vectors/audio-play-sound-start-video-158489/ https://pixabay.com/vectors/speaker-loudness-volume-green-296661/ https://pixabay.com/vectors/like-facebook-social-media-icon-3000958/|
 
 ### Scene 8a - Fighting
 #### description
 * fighting happens on stage and background
 #### implementation
 * add voiceovers and visualizations: "round 1" "fight!" "combo" "combobreaker" "boom" "low energie" "hp low" "kill" "double kill"
-* todo participants: input from different games
-* todo: record audio
-* todo: draw vidualizations ("round 1")
+* **to do participants**: input from different games(youtube, source, screenshots)
+* to do: record audio
+* to do: draw visualizations ("round 1")
 
 ### Scene 10 - Influencer fame
 #### description
@@ -95,6 +101,7 @@ Content:
 ### Scene 16 - Hulahoop
 * **we set this scene to prio 1 because if hulahoop/smiley idea, does this work?**
 * story is without devices, no projection mapping to keep the style non-digital?
+* some hula rungs are held up, bird flys through, rings
 
 #### description
 * writes and sends analog loveletter
@@ -102,7 +109,9 @@ Content:
 * acting on stage: person writes, letter appears on projection behind him/her, sound: pen/quill (german: _Schreibfeder_) on paper
 
 #### implementation
-* fill in after discussion
+* **to do participants**: find video of flying dove with letter (vimeo, youtube)
+* https://www.maketecheasier.com/5-websites-find-creative-commons-videos/
+* post ideas (links) here
 
 ## Priority 2
 * we'll add when done with priority 1

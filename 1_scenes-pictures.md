@@ -97,7 +97,8 @@ https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pix
 #### implementation
 * shoot the video according to d. script
 * edit video in video software (clearification needed according to description)
-* **todo participants** get video examples
+* hard cuts (must be visible)
+
 
 ### Scene 16 - Hulahoop
 * **we set this scene to prio 1 because if hulahoop/smiley idea, does this work?**
@@ -112,7 +113,12 @@ https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pix
 #### implementation
 * **to do participants**: find video of flying dove with letter (vimeo, youtube)
 * https://www.maketecheasier.com/5-websites-find-creative-commons-videos/
-* post ideas (links) here
+* Possible?
+* https://www.youtube.com/watch?v=fTtutzeekeo
+* https://www.youtube.com/watch?v=QBWMwSZJWaw
+* https://www.youtube.com/watch?v=j6Xm460tx5A
+* https://www.youtube.com/watch?v=CEQOwf8g4wM
+* 
 
 ## Priority 2
 * we'll add when done with priority 1

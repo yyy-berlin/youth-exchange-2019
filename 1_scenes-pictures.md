@@ -15,41 +15,42 @@ Content:
 | Nr | Scene           | Prio | Description       | Proposal  |
 |----|-----------------|------|-------------------|-----------|
 | I  | Media screen    | 2    | Chapter 1         |           |
-| 1a | Intro,  acting  | 2    | "castle outside, oldschoo"l| https://pixabay.com/photos/singapore-river-skyline-building-243669/ https://pixabay.com/photos/city-london-england-architecture-809463/          |
-| 1b | Intro, dance    | 3    | "castle inside, modern, technical"| https://pixabay.com/illustrations/graph-growth-finance-profits-163509/  https://pixabay.com/illustrations/money-banking-finance-business-1995440/       |
-| 2  | acrobatic       | 2    | "binoculars, stars, Aretusa"|   https://pixabay.com/photos/milky-way-starry-sky-night-sky-star-2695569/ https://pixabay.com/photos/starry-sky-star-galaxies-1655503/|
-| 3a| influencer| 2 | maybe projection? counting up likes or retweets |
-| 3b | strapes         | 2    |garden, bloom, pomegranates, hippiesausage| https://pixabay.com/photos/tree-fog-moor-swamp-venn-branch-1031814/          |
-| 3c | Influencas      | non  |                   |           |
-| 4a | Acting          | 3    | "classical"       |           |
-| 4b | Music           | 3    |                 |   https://pixabay.com/photos/cloudy-cloud-night-moody-gloomy-3900649/ https://pixabay.com/photos/alley-road-winding-lane-houses-250033/ https://pixabay.com/photos/flute-musical-instrument-1427650/          |
-| 5  | Media           | 1    | "Incoming messenges"|   https://pixabay.com/illustrations/whatsapp-icon-communication-social-2317203/ https://pixabay.com https://pixabay.com/vectors/icon-green-button-clip-art-forward-156758//illustrations/mobile-phone-arrow-send-received-on-2223993/ https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pixabay.com/vectors/audio-play-sound-start-video-158489/ https://pixabay.com/vectors/speaker-loudness-volume-green-296661/ https://pixabay.com/vectors/like-facebook-social-media-icon-3000958/|
-| 6  | Actors          | 3    | |   https://pixabay.com/photos/glass-wall-people-woman-girl-hair-2557577/ https://pixabay.com/photos/woman-girl-young-person-female-4509821/ https://pixabay.com/photos/frog-meadow-headphones-music-1109819/ https://pixabay.com/photos/girl-young-woman-awakening-3231843/ |
-| 7  | Diabolo         | 3    |                   |           |
+| 1a | "troubadurs" Intro,  acting  | 3   | "castle outside, oldschoo"l maybe picture of a tree | https://pixabay.com/photos/singapore-river-skyline-building-243669/ https://pixabay.com/photos/city-london-england-architecture-809463/ |
+| 1b | "introduction kingdom" Intro, dance    | 3 | longer acting scene, (parts a-e) part 1b-b: office of the king | pictures of excel-stuff https://pixabay.com/illustrations/graph-growth-finance-profits-163509/  https://pixabay.com/illustrations/money-banking-finance-business-1995440/ |
+| 2a  | vid influenca luna | 1 | Luna introduction (hotel, with Q&A) | effects still open  |
+| 2  | acrobatic       | 3 | maybe pictures of |  https://pixabay.com/photos/milky-way-starry-sky-night-sky-star-2695569/ https://pixabay.com/photos/starry-sky-star-galaxies-1655503/|
+| 3a| influencer| 1 | video of mina  | maybe zoom selfdrawn picture |
+| 3 | strapes         | non  | talk to pio. about priority, some acting garden, bloom, pomegranates, hippiesausage| https://pixabay.com/photos/tree-fog-moor-swamp-venn-branch-1031814/  d.: to dark, pick s.th. like 4b/1  |
+| 3c | Influencas      | non  | scene not finished by now, maybe no media    | **currently no media needed**          |
+| 4 | Acting, E. sings songs   | non | "classical"       | **currently no media needed**          |
+| 5  | Media           | 1    | lot of bing bing, acting, Message could be sent from Mina ("hear what i recorded; who is he; dunno, just heard it on the streets") | ro. and an. setting up a proposal  daj.: preferred scene 3, alternative would be 4/5 ,bing sounds in different pannings |
+| 5b | retusa is falling in love      | 2 | scene starts when she hits play and plugs in earphones     | audiofile music? |
+| 6  | Actors          | 3 | |  picture of heart  https://pixabay.com/photos/glass-wall-people-woman-girl-hair-2557577/ https://pixabay.com/photos/woman-girl-young-person-female-4509821/ https://pixabay.com/photos/frog-meadow-headphones-music-1109819/ https://pixabay.com/photos/girl-young-woman-awakening-3231843/ daj.: 5 or 3 again |
+| 7  | Diabolo         | 3    |  **talk to mark**  |     |
 | II | Media screen    | 2    | Chapter 2         |           |
-| 8a | Media           | 1    | "Video fight"| https://cdn.vox-cdn.com/thumbor/Xudovf-ancj62PXKiijIEliHARA=/0x0:1628x916/920x613/filters:focal(684x328:944x588):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/52732265/NintendoSwitch_UltraStreetFighterII_screen_2.0.jpg https://browse.startpage.com/do/show_picture.pl?l=english&rais=1&oiu=https%3A%2F%2Fwww.allkeyshop.com%2Fblog%2Fwp-content%2Fuploads%2Ftekken-7-xbox-one-800x600-1.jpg&sp=e65416791aaea765f4e98bf8d9237fd8&t=default |
+| 8a | Media           | 1    | "Video fight"|  **clearify with fl., spots on fighters** https://cdn.vox-cdn.com/thumbor/Xudovf-ancj62PXKiijIEliHARA=/0x0:1628x916/920x613/filters:focal(684x328:944x588):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/52732265/NintendoSwitch_UltraStreetFighterII_screen_2.0.jpg https://browse.startpage.com/do/show_picture.pl?l=english&rais=1&oiu=https%3A%2F%2Fwww.allkeyshop.com%2Fblog%2Fwp-content%2Fuploads%2Ftekken-7-xbox-one-800x600-1.jpg&sp=e65416791aaea765f4e98bf8d9237fd8&t=default |
 | 8b | Stickfight      | 2    | "e-sport fight"   |           |
-| 9  | Acting          | 3    |                   |           |
+| 9  | Acting          | non  |                   |           |
 | III| Media screen    | 2    | Chapter 3         |           |
-| 10a| Media           | 1    | "I. is TV-host"   | https://pixabay.com/vectors/i-like-i-like-this-i-like-it-thumb-432494/         |https://pixabay.com/photos/alley-road-winding-lane-houses-250033/ https://pixabay.com/photos/flute-musical-instrument-1427650/ https://pixabay.com/vectors/i-like-i-like-this-i-like-it-thumb-432494/
-| 10b| acting/Media    | 3    | "A. recognizes him"|           |
-| 12a| acting media    | non  |                   |           |
-| 12b| acting          | non  |                   |           |
-| 13 | trampolin       | 2    | "king hits her, opens devices", dungeon |  |
-| 14a| acting          | 3    | "A. angry in dungeon"| https://pixabay.com/photos/prison-prison-cell-jail-crime-553836/ https://pixabay.com/photos/jail-prisoner-captive-police-crime-429639/|
-| 14b| acting          | non  |                   |           |
-| 15 | silk            | 3    | "tower cave"      | https://pixabay.com/vectors/letters-email-newsletter-write-1132703/  |
-| 16 | Hula            | 1?   | analog loveletter, bird |           |
+| 10a| Media           | 1    | Luna2: video who is E.   | video needs to be shot, pictur will be shot by daj. tuesday  https://pixabay.com/vectors/i-like-i-like-this-i-like-it-thumb-432494/         |https://pixabay.com/photos/alley-road-winding-lane-houses-250033/ https://pixabay.com/photos/flute-musical-instrument-1427650/ https://pixabay.com/vectors/i-like-i-like-this-i-like-it-thumb-432494/
+| 10b| acting/Media    | 1  | she is sending him a picture via messanger of an apple, cutout in heart "E.+I", afterwards they start texting for a long time |   |
+| 11 | breakdance      | 3    | fragile important Search "amphorius", picture of glass   |           |
+| 12a| trubadure, acting media    | 2  |  image of window  on center screen, small so they can stand on each side | suggestion is needed, comes up again in 14b  |
+| 12b| acting          | 2  |  Signature picture from long E+A Chat                | picture  |
+| 13 | trampolin       | non    | "king hits her, opens devices", dungeon |  |
+| 15 | silk            | 3    | cut due to priorities: prison pictures on silk  | maybe prison cell pictures https://pixabay.com/vectors/letters-email-newsletter-write-1132703/  |
+| 14b| acting          | 1  | at end: fog (thats prio 3)        | picture of the window again   |
+| 16 | Hula            | 1    | analog loveletter (writing in front, quill-sounds, letter appears on screen, bird flying through rings |           |
 | 17 | Media           | 2    | month are passing |           |
 | IV | Media screen    | 2    | Chapter 4         |           |
-| 18 | act. famous song| 3    | "supporting lonelyness"|           |
+| 18 | act. famous song| non  | "supporting lonelyness"|           |
 | 19 | fireperformance | non  |                   |           |
 | 20 | acting Tru./Inf.| non  |                   |           |
 | V  | Media screen    | 2    | Chapter 5         |           |
-| 21 | acting          | 3    | opening door      |           |
+| 21 | acting          | non    |     |           |
 | 22 | aerial ring     | non  |                   |           |
 | 23 | acting          | non  |                   |           |
-| 24 | finale          | non  |                   |           |
+| 24 | finale          | 2  |                   |           |
 
 **Comments:** 
 * Priorities: given by Daj. -> Fokus on 1 and 2
@@ -113,17 +114,24 @@ https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pix
 #### implementation
 * **to do participants**: find video of flying dove with letter (vimeo, youtube)
 * https://www.maketecheasier.com/5-websites-find-creative-commons-videos/
-* Possible?
+* option?
 * https://www.youtube.com/watch?v=fTtutzeekeo
 * https://www.youtube.com/watch?v=QBWMwSZJWaw
 * https://www.youtube.com/watch?v=j6Xm460tx5A
-* https://www.youtube.com/watch?v=CEQOwf8g4wM
 * 
+* 
+* N. pick
+    * https://www.youtube.com/watch?v=FrRXDYUatf4
+    * https://www.youtube.com/watch?v=CEQOwf8g4wM
 
 ## Priority 2
 * we'll add when done with priority 1
 
 ## More suggestions for mapping images
+
+https://pixabay.com/photos/cloudy-cloud-night-moody-gloomy-3900649/ https://pixabay.com/photos/alley-road-winding-lane-houses-250033/ https://pixabay.com/photos/flute-musical-instrument-1427650/ 
+
+ https://pixabay.com/illustrations/whatsapp-icon-communication-social-2317203/ https://pixabay.com https://pixabay.com/vectors/icon-green-button-clip-art-forward-156758//illustrations/mobile-phone-arrow-send-received-on-2223993/ https://pixabay.com/vectors/sound-wave-waveform-aural-audio-1781570/ https://pixabay.com/vectors/audio-play-sound-start-video-158489/ https://pixabay.com/vectors/speaker-loudness-volume-green-296661/ https://pixabay.com/vectors/like-facebook-social-media-icon-3000958/
 
 ### Intro Scene One Trees/couple/ surrounding
 * https://pixabay.com/photos/avenue-trees-away-walk-green-2215317/

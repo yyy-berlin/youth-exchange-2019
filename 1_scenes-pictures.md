@@ -14,43 +14,43 @@ Content:
 
 | Nr | Scene           | Prio | Description       | Proposal  |
 |----|-----------------|------|-------------------|-----------|
-| I  | Media screen    | 2    | (T) Chapter 1, in greek        |           |
-| 1a | "troubadurs" Intro,  acting  | 3   | (T) maybe picture of a tree |  |
-| 1b | "introduction kingdom" Intro, dance    | 3 | longer acting scene, (parts a-e) part 1b-b: office of the king, pictures of excel-stuff |  https://pixabay.com/illustrations/graph-growth-finance-profits-163509/   |
-| 2a  | vid influenca luna | 1 | Luna introduction (hotel, with Q&A) | maybe add suggestions effects  |
-| 2  | acrobatic       | 3 | ownership dajana? |  |
-| 3a| influencer| 1 | video of mina  | video shot, maybe zoom in selfdrawn picture |
-| 3 | strapes         | non  | talk to pio. about priority, some acting |  |
+| I  | Media screen    | 2    | Chapter 1, in greek; Scene-I_Chapter-1_ Picture.png CC0        |  ![](https://i.imgur.com/hABQinX.png) CC0 |
+| 1a | "troubadurs" Intro,  acting  | 3   | Scene-01a_Intro-acting_picture_ plantation-4452538_CC0 |![](https://i.imgur.com/m2DpCEK.png) CC0 |
+| 1b | "introduction kingdom" Intro, dance    | 3 | Scene-01b_intro-king_picture_ desk-3139127_CC0.jpg | ![](https://i.imgur.com/CloRKKQ.png) CC0 |
+| 2a  | vid influenca luna | 1 | Scene-02a-influencer-luna | cutting in process, maybe with "influencer style" effects  |
+| 2  | acrobatic       | 3 | Unclear: who is the owner of this scene | any wishes? |
+| 3a| influencer| 1 | Scene-03a_influencer-vid-mina, To do Media: Add picture in folder (t430) | cutting in process, maybe with zoom in selfdrawn picture |
+| 3 | strapes         | 2  | Scene-03_garden_picture_ pomegranate-173344_CC0 | ![](https://i.imgur.com/rwwX5L8.png) CC0|
 | 3c | Influencas      | non  | scene not finished by now, maybe no media    |    |
 | 4 | Acting, E. sings songs   | non |    |   |
-| 5  | Media           | 1    | lot of bing bing, acting, Message could be sent from Mina ("hear what i recorded; who is he; dunno, just heard it on the streets") | ro. and an. setting up a proposal  daj.: preferred scene 3, alternative would be 4/5 ,bing sounds in different pannings |
-| 5b | retusa is falling in love      | 2 | scene starts when she hits play and plugs in earphones     | audiofile music? |
-| 6  | Actors          | 3 | |  picture of heart  |
-| 7  | Diabolo         | 3    |  **talk to mark**  |     |
-| II | Media screen    | 2    | Chapter 2         |           |
-| 8a | Media           | 1    | see prio 1 below table |  white spots on fighter introduction |
-| 8b | Stickfight      | 2    | "e-sport fight"   |           |
-| 9  | Acting          | non  |                   |           |
-| III| Media screen    | 2    | Chapter 3         |           |
-| 10a| Media           | 1    | Luna2: video who is E.   | video needs to be shot, pictur will be shot by daj. tuesday |
-| 10b| acting/Media    | 1  | she is sending him a picture via messanger of an apple, cutout in heart "E.+I", afterwards they start texting for a long time |   |
-| 11 | breakdance      | 3    | fragile important Search "amphorius", picture of glass   |           |
-| 12a| trubadure, acting media    | 2  |  image of window  on center screen, small so they can stand on each side | suggestion is needed, comes up again in 14b  |
-| 12b| acting          | 2  |  Signature picture from long E+A Chat                | picture  |
-| 13 | trampolin       | non    | "king hits her, opens devices", dungeon |  |
-| 15 | silk            | 3    | cut due to priorities: prison pictures on silk  | maybe prison cell pictures  |
-| 14b| acting          | 1  | at end: fog (thats prio 3)        | picture of the window again   |
-| 16 | Hula            | 1    | analog loveletter (writing in front, quill-sounds, letter appears on screen, bird flying through rings |           |
-| 17 | Media           | 2    | month are passing |           |
-| IV | Media screen    | 2    | Chapter 4         |           |
+| 5  | Media           | 1    | Scene-05_voicemessage-vid | cutting in process, maybe with "influencer style" effects |
+| 5b | Aretusa is falling in love      | 2 | part 2 from scene 5  |  |
+| 6  | Actors          | 3 | | ![](https://i.imgur.com/JMbza40.png) CC0|
+| 7  | Diabolo         | non    | no mapping, just light: bordeaux, dark green, yellow  |     |
+| II | Media screen    | 2    | Chapter 2, in greek; correct number will be added with go from trainers        |  ![](https://i.imgur.com/hABQinX.png) |
+| 8a | Media           | 1    | Video explosion still needed |  white spots on fighter introduction |
+| 8b | Stickfight      | 2    | white spots for fighter introduction, marks on stage | maybe visual support for E. playing in front of gaming console  |
+| 9  | Acting          | non  |           |      |
+| III| Media screen    | 2    | Chapter 3, in greek; correct number will be added with go from trainers        |  ![](https://i.imgur.com/hABQinX.png) |
+| 10a| Media           | 1    | Scene-10a_Luna-and-Mina  | cutting in process, maybe with "influencer style" effects |
+| 10b| acting/Media    | 1  | Scene-10b_Sends-apple, video will be recorded with feedback on text | ![](https://i.imgur.com/0YadGc7.png) "Scene10b_picture_apple" CC BY yyy Berlin |
+| 11 | breakdance      | 3    | Scene-11_Amphorius_ digital-art-2709479_cc0.jpg | ![](https://i.imgur.com/AYZJSm8.png) CC0 |
+| 12a| trubadure, acting media    | 2  |  Scene-12a_window_ window-1789236_CC0 | ![](https://i.imgur.com/NAisX5B.png)CC0 |
+| 12b| acting          | 2  |  Signature picture from long E+A Chat                | in preperation |
+| 13 | trampolin       | non    |  |  |
+| 15 | silk            | 3    | Scene-15_Silk_ old-883672_CC0.jpg | ![](https://i.imgur.com/wOBMWNA.png) CC0 |
+| 14b| acting          | 1  | at end: fog (thats prio 3)     Scene-12a_window_ window-1789236_CC0 | ![](https://i.imgur.com/NAisX5B.png) CC0 |
+| 16 | Hula            | 1    | analog loveletter (writing in front, quill-sounds, letter appears on screen, bird flying through rings, not much light with scene | to do  |
+| 17 | Media           | 2    | month are passing | to do           |
+| IV | Media screen    | 2    | Chapter 4, in greek; correct number will be added with go from trainers        |  ![](https://i.imgur.com/hABQinX.png) |
 | 18 | act. famous song| non  | |           |
 | 19 | fireperformance | non  |                   |           |
 | 20 | acting Tru./Inf.| non  |                   |           |
-| V  | Media screen    | 2    | Chapter 5         |           |
+| V  | Media screen    | 2    | Chapter 5, in greek; correct number will be added with go from trainers        |  ![](https://i.imgur.com/hABQinX.png) |
 | 21 | acting          | non    |     |           |
 | 22 | aerial ring     | non  |                   |           |
 | 23 | acting          | non  |                   |           |
-| 24 | finale          | 2  |                   |           |
+| 24 | finale          | 2  | currently in discussion |           |
 
 **Comments:** 
 * Priorities: given by Daj. -> Fokus on 1 and 2
@@ -58,6 +58,10 @@ Content:
 * Description:
     * Filled in from Daj. script (version 3), after column "Media",
     * formulations from Daj. in quotationmarks
+
+### alternatives
+* 1b) https://pixabay.com/photos/red-bank-park-bench-in-the-park-4151811/
+* 
 
 ## Priority 1
 
@@ -238,7 +242,7 @@ alternatives
 * pixabay.com
 * flickr.com Attention: change licence to "all creative commons" in the upper left dropdown menu on the page
 
-## General Akbar Ideas
+## General Ideas
 * more cutouts in stage then projection on wall
 * office/throne: cutouts on sticks
 
